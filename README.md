@@ -1,3 +1,5 @@
+**MOVED TO** https://github.com/sashkavalent/cmt
+
 With this **Coolness Measurement Tool** you can measure coolness of audio parts you specify.
 
 To use this tool you need [sox](http://sox.sourceforge.net/) to be installed. To download audio from YouTube you also need [youtube-dl](https://rg3.github.io/youtube-dl/).
